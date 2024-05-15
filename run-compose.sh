@@ -96,7 +96,7 @@ usage() {
 # Default values
 gpu_count=1
 api_port=11435
-webui_port=3000
+webui_port=80
 headless=false
 build_image=false
 kill_compose=false

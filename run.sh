@@ -2,7 +2,7 @@
 
 image_name="icetana-gpt"
 container_name="icetana-gpt"
-host_port=3000
+host_port=80
 container_port=8080
 
 docker build -t "$image_name" .
