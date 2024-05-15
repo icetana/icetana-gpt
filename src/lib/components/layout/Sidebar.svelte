@@ -215,7 +215,7 @@
 					<div class="self-center mr-1.5">
 						<img
 							src="{WEBUI_BASE_URL}/static/favicon.png"
-							class=" size-6 -translate-x-1.5 rounded-full"
+							class=" size-6 -translate-x-1.5"
 							alt="logo"
 						/>
 					</div>
