@@ -208,11 +208,11 @@
 						<div class="m-auto pb-10 flex flex-col justify-center">
 							<div class="max-w-md">
 								<div class="text-center dark:text-white text-2xl font-medium z-50">
-									Account Activation Pending<br /> Contact Admin for WebUI Access
+									Account Activation Pending<br /> Contact Admin for icetanaGPT Access
 								</div>
 
 								<div class=" mt-4 text-center text-sm dark:text-gray-200 w-full">
-									Your account status is currently pending activation. To access the WebUI, please
+									Your account status is currently pending activation. To access icetanaGPT, please
 									reach out to the administrator. Admins can manage user statuses from the Admin
 									Panel.
 								</div>
