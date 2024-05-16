@@ -119,7 +119,7 @@
 >
 	<div class=" space-y-3 pr-1.5 overflow-y-scroll max-h-[22rem]">
 		<div>
-			<div class=" mb-1 text-sm font-medium">{$i18n.t('WebUI Add-ons')}</div>
+			<div class=" mb-1 text-sm font-medium">{$i18n.t('icetanaGPT Add-ons')}</div>
 
 			<div>
 				<div class=" py-0.5 flex w-full justify-between">
