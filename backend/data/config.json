@@ -4,32 +4,20 @@
 		"default_locale": "en-US",
 		"prompt_suggestions": [
 			{
-				"title": ["Help me study", "vocabulary for a college entrance exam"],
-				"content": "Help me study vocabulary: write a sentence for me to fill in the blank, and I'll try to pick the correct option."
+				"title": ["Violence Detection", "Detecting violence in an image"],
+				"content": "If none of these events are found, write ‘false’. If one of these events are found, write `true`, a short description, and stop looking for more events.\n```\nFighting\nDangerous Person\nDangerous Situation\n```"
 			},
 			{
-				"title": ["Give me ideas", "for what to do with my kids' art"],
-				"content": "What are 5 creative things I could do with my kids' art? I don't want to throw them away, but it's also so much clutter."
+				"title": ["Hazard Detection", "Detect hazards in an image"],
+				"content": "If none of these events are found, write ‘false’. If one of these events are found, write `true`, a short description, and stop looking for more events.\n```\nFallen Person\nHealth and Safety Breach\n```"
 			},
 			{
-				"title": ["Tell me a fun fact", "about the Roman Empire"],
-				"content": "Tell me a random fun fact about the Roman Empire"
+				"title": ["Smoking Detection", "Detect smokers in an image"],
+				"content": "If none of these events are found, write ‘false’. If one of these events are found, write `true`, a short description, and stop looking for more events.\n```\nVaping\nSmoking\nTobacco\n```"
 			},
 			{
-				"title": ["Show me a code snippet", "of a website's sticky header"],
-				"content": "Show me a code snippet of a website's sticky header in CSS and JavaScript."
-			},
-			{
-				"title": ["Explain options trading", "if I'm familiar with buying and selling stocks"],
-				"content": "Explain options trading in simple terms if I'm familiar with buying and selling stocks."
-			},
-			{
-				"title": ["Overcome procrastination", "give me tips"],
-				"content": "Could you start by asking me about instances when I procrastinate the most and then give me some suggestions to overcome it?"
-			},
-			{
-				"title": ["Grammar check", "rewrite it for better readability "],
-				"content": "Check the following sentence for grammar and clarity: \"[sentence]\". Rewrite it for better readability while maintaining its original meaning."
+				"title": ["Emergency Personnel", "Detect emergency personnel in an image"],
+				"content": "If none of these events are found, write ‘false’. If one of these events are found, write `true`, a short description, and stop looking for more events.\n```Emergency Personnel\nEmergency Vehicle\nAmbulance\nPolice\nFire Truck\n```"
 			}
 		]
 	}
